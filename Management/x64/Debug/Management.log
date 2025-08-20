@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\唐升晖\Desktop\School Assignment\Management\main.c(462,1): warning C4715: “identity”: 不是所有的控件路径都返回值
+C:\Users\唐升晖\Desktop\School Assignment\Management\main.c(382,1): warning C4715: “get_name_password”: 不是所有的控件路径都返回值
+C:\Users\唐升晖\Desktop\School Assignment\Management\main.c(354,1): warning C4172: 返回局部变量的地址或临时 : password
+C:\Users\唐升晖\Desktop\School Assignment\Management\main.c(380,1): warning C4172: 返回局部变量的地址或临时 : name
+C:\Users\唐升晖\Desktop\School Assignment\Management\main.c(1449,1): warning C4715: “search_and_display”: 不是所有的控件路径都返回值
+  Management.vcxproj -> C:\Users\唐升晖\Desktop\School Assignment\Management\x64\Debug\Management.exe

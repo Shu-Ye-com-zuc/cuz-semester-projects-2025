@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>203</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>welcome</FUNCTION>
+    <DECORATED>welcome</DECORATED>
+    <FUNCLINE>188</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>261</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>add_officer</FUNCTION>
+    <DECORATED>add_officer</DECORATED>
+    <FUNCLINE>254</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>295</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>add_officer</FUNCTION>
+    <DECORATED>add_officer</DECORATED>
+    <FUNCLINE>254</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>296</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>add_officer</FUNCTION>
+    <DECORATED>add_officer</DECORATED>
+    <FUNCLINE>254</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>320</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>add_officer</FUNCTION>
+    <DECORATED>add_officer</DECORATED>
+    <FUNCLINE>254</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>360</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>delete_officer</FUNCTION>
+    <DECORATED>delete_officer</DECORATED>
+    <FUNCLINE>352</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>367</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>delete_officer</FUNCTION>
+    <DECORATED>delete_officer</DECORATED>
+    <FUNCLINE>352</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>375</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>delete_officer</FUNCTION>
+    <DECORATED>delete_officer</DECORATED>
+    <FUNCLINE>352</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>403</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>delete_officer</FUNCTION>
+    <DECORATED>delete_officer</DECORATED>
+    <FUNCLINE>352</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>452</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>delete_node_by_id</FUNCTION>
+    <DECORATED>delete_node_by_id</DECORATED>
+    <FUNCLINE>420</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>504</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>modify_officer</FUNCTION>
+    <DECORATED>modify_officer</DECORATED>
+    <FUNCLINE>499</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>523</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>modify_officer</FUNCTION>
+    <DECORATED>modify_officer</DECORATED>
+    <FUNCLINE>499</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>599</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>写入 "input" 时缓冲区溢出。</DESCRIPTION>
+    <FUNCTION>modify_node</FUNCTION>
+    <DECORATED>modify_node</DECORATED>
+    <FUNCLINE>540</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>541</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>543</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>550</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>551</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>552</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>553</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>555</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>556</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>“input”是一个 150 元素数组(150 字节)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>557</LINE>
+        <COLUMN>35</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>跳过此分支(假定“&lt;分支条件&gt;”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>562</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>563</LINE>
+        <COLUMN>37</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>跳过此分支(假定“&lt;分支条件&gt;”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>568</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>569</LINE>
+        <COLUMN>37</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>跳过此分支(假定“&lt;分支条件&gt;”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>574</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>575</LINE>
+        <COLUMN>41</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>跳过此分支(假定“&lt;分支条件&gt;”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>580</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>581</LINE>
+        <COLUMN>43</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>跳过此分支(假定“&lt;分支条件&gt;”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>586</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>587</LINE>
+        <COLUMN>29</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>跳过此分支(假定“&lt;分支条件&gt;”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>590</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>591</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>592</LINE>
+        <COLUMN>34</COLUMN>
+        <KEYEVENT>
+          <ID>8</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>跳过此分支(假定“&lt;分支条件&gt;”为 false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>597</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>598</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+        <FILENAME>main.c</FILENAME>
+        <LINE>599</LINE>
+        <COLUMN>37</COLUMN>
+        <KEYEVENT>
+          <ID>9</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>写入到“input[199]”无效(可写范围是 0 到 149)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>680</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>search_and_display</FUNCTION>
+    <DECORATED>search_and_display</DECORATED>
+    <FUNCLINE>667</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>681</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>search_and_display</FUNCTION>
+    <DECORATED>search_and_display</DECORATED>
+    <FUNCLINE>667</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>695</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>search_and_display</FUNCTION>
+    <DECORATED>search_and_display</DECORATED>
+    <FUNCLINE>667</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>696</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>search_and_display</FUNCTION>
+    <DECORATED>search_and_display</DECORATED>
+    <FUNCLINE>667</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>789</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>search_and_display</FUNCTION>
+    <DECORATED>search_and_display</DECORATED>
+    <FUNCLINE>667</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\唐升晖\Desktop\School Assignment\Management\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>790</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>search_and_display</FUNCTION>
+    <DECORATED>search_and_display</DECORATED>
+    <FUNCLINE>667</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

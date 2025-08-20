@@ -1,0 +1,962 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 203,
+                  "startColumn": 2,
+                  "endLine": 203,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "welcome",
+                  "decoratedName": "welcome",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “getchar”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 261,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "add_officer",
+                  "decoratedName": "add_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 295,
+                  "startColumn": 3,
+                  "endLine": 295,
+                  "endColumn": 27
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "add_officer",
+                  "decoratedName": "add_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “getchar”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 296,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "add_officer",
+                  "decoratedName": "add_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 320,
+                  "startColumn": 2,
+                  "endLine": 320,
+                  "endColumn": 16
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "add_officer",
+                  "decoratedName": "add_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 360,
+                  "startColumn": 2,
+                  "endLine": 360,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "delete_officer",
+                  "decoratedName": "delete_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 367,
+                  "startColumn": 3,
+                  "endLine": 367,
+                  "endColumn": 16
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "delete_officer",
+                  "decoratedName": "delete_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “getchar”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 375,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "delete_officer",
+                  "decoratedName": "delete_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 403,
+                  "startColumn": 2,
+                  "endLine": 403,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "delete_officer",
+                  "decoratedName": "delete_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 452,
+                  "startColumn": 2,
+                  "endLine": 452,
+                  "endColumn": 16
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "delete_node_by_id",
+                  "decoratedName": "delete_node_by_id",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “getchar”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 504,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "modify_officer",
+                  "decoratedName": "modify_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 523,
+                  "startColumn": 2,
+                  "endLine": 523,
+                  "endColumn": 16
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "modify_officer",
+                  "decoratedName": "modify_officer",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6386",
+          "message": {
+            "text": "写入 \"input\" 时缓冲区溢出。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 599,
+                  "startColumn": 6,
+                  "endLine": 599,
+                  "endColumn": 53
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "modify_node",
+                  "decoratedName": "modify_node",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 541,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 543,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 550,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 551,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 552,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 553,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 555,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 556,
+                            "startColumn": 7
+                          }
+                        },
+                        "message": {
+                          "text": "“input”是一个 150 元素数组(150 字节)"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 557,
+                            "startColumn": 36
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“<分支条件>”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 562,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 563,
+                            "startColumn": 38
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“<分支条件>”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 568,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 569,
+                            "startColumn": 38
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“<分支条件>”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 574,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 575,
+                            "startColumn": 42
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“<分支条件>”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 580,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 581,
+                            "startColumn": 44
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“<分支条件>”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 586,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 587,
+                            "startColumn": 30
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“<分支条件>”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 590,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 591,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 592,
+                            "startColumn": 35
+                          }
+                        },
+                        "message": {
+                          "text": "跳过此分支(假定“<分支条件>”为 false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 597,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 598,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                          },
+                          "region": {
+                            "startLine": 599,
+                            "startColumn": 38
+                          }
+                        },
+                        "message": {
+                          "text": "写入到“input[199]”无效(可写范围是 0 到 149)"
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 680,
+                  "startColumn": 2,
+                  "endLine": 680,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "search_and_display",
+                  "decoratedName": "search_and_display",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “getchar”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 681,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "search_and_display",
+                  "decoratedName": "search_and_display",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 695,
+                  "startColumn": 3,
+                  "endLine": 695,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "search_and_display",
+                  "decoratedName": "search_and_display",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “getchar”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 696,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "search_and_display",
+                  "decoratedName": "search_and_display",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 789,
+                  "startColumn": 3,
+                  "endLine": 789,
+                  "endColumn": 16
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "search_and_display",
+                  "decoratedName": "search_and_display",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “getchar”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+                },
+                "region": {
+                  "startLine": 790,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "search_and_display",
+                  "decoratedName": "search_and_display",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.40.33813.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/唐升晖/Desktop/School Assignment/Management/main.c"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "1c0d6a2475d925e165780291c705584c40bf6832db621368dd735fa83cfe4ead"
+          }
+        }
+      ]
+    }
+  ]
+}
